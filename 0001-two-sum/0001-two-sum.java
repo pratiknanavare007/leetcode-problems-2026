@@ -14,6 +14,6 @@ class Solution {
             map.put(nums[i], i);
         }
 
-        return new int[] {}; // Unreachable as per problem statement
+        return new int[] {};
     }
 }
